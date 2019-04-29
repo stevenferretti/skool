@@ -1,0 +1,26 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-react",
+    "tslint-config-prettier",
+    "tslint-plugin-prettier"
+  ],
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts",
+      "public/**"
+    ]
+  },
+  "rules": {
+    "prettier": [
+      true,
+      {
+        "singleQuote": true
+      }
+    ],
+    "jsx-no-lambda": false,
+    "jsx-boolean-value": false,
+    "object-literal-sort-keys": false
+  }
+}

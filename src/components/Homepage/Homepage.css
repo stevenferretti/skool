@@ -1,0 +1,21 @@
+.spiritMotto {
+    color: blue;
+    text-align: center;
+}
+
+/* Custom Slider CSS */
+
+/* Override the default setting, should prob remove from mobile view in future  */
+
+.carousel-slider {
+    width: 100% !important;
+    max-height: 700px;
+    margin: auto !important;
+}
+
+#about>.container {
+    padding-top: 10px;
+}
+
+.center{text-align:center}
+.bold{font-weight: bold}
