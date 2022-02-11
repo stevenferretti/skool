@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/react-dom": "^16.0.6",
-    "ajv": "^6.5.0",
+    "ajv": "^6.12.3",
     "firebase": "^4.12.1",
     "fullcalendar-reactwrapper": "^1.0.7",
     "lodash": "^4.17.21",
