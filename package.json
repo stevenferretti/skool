@@ -17,7 +17,7 @@
     "react-parallax": "^1.8.0",
     "react-responsive-carousel": "^3.1.35",
     "react-router-dom": "^4.2.2",
-    "react-scripts-ts": "2.14.0",
+    "react-scripts-ts": "4.0.8",
     "react-vertical-timeline-component": "^2.1.3"
   },
   "scripts": {
